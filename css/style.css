@@ -1,4 +1,4 @@
-/* Global Layout Set-up */
+/* main layout */
 * { 
   box-sizing: border-box;
 }
@@ -11,7 +11,7 @@ body {
   color: #222;
   background: #ffeee6;
 }
-/* Link Styles */
+/* my link styles */
 
 a {
   text-decoration: none;
@@ -21,7 +21,7 @@ a:hover {
   color: black;
 }
 
-/* Section Styles */
+/* my three column styles */
 
 .main-nav {
   width: 100%;
@@ -200,7 +200,7 @@ a.social:hover {
   clear: both;
 }
 
-/* Styles for larger screens */
+/* modify for large screen */
 @media screen and (min-width: 720px) {
   
   .flex {
