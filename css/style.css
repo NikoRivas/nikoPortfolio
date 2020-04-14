@@ -89,7 +89,7 @@ header .profile-image:hover {
   font-family: 'EB Garamond', serif;
   color: white;
   padding: 10px;
-  border-radius: 5px, 
+  border-radius: 5px; 
   text-align: center;
   display: table;
   margin: 10px auto;
@@ -108,7 +108,7 @@ header .profile-image:hover {
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: text-align: center, 2px;
+  text-align: center, 2px;
 }
 .card:hover {
   border-color: #FFC1C1;
