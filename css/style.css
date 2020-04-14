@@ -119,10 +119,10 @@ text-align:center;
 letter-spacing: 1px;
 }
 
-#resumelink {
+#projectlink {
   color: grey;
 }
-#resumelink:hover {
+#projectlink:hover {
   color: black;
 }
 ul.skills {
@@ -174,28 +174,6 @@ footer ul li {
   color: black;
 }
 
-a.social {
-  display: inline-block;
-  text-indent: -9999px;
-  margin-left: 5px;
-  width: 30px;
-  height: 30px;
-  background-size: 30px 30px;
-  opacity: .5;
-  transition: all .25s;
-}
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
-a.github {
-  background-image: url(images/github.svg);
-}
-a.social:hover {
-  opacity: 1;
-}
 .clearfix {
   clear: both;
 }
