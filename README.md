@@ -10,7 +10,7 @@ _{These are instructions for how to view my basic HTML and CSS Portfolio, which 
 
 ## Setup/Installation Requirements
 
-* visit this page to load:
+* visit this page to load: https://nikorivas.github.io/nikoPortfolio/
 * _to use locally, clone this repository and launch html in your browser. 
 * _in a simple_
 * _easy-to-understand_
